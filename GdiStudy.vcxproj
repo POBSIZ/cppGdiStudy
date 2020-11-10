@@ -150,6 +150,7 @@
     <ClCompile Include="GdiStudy.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="login.h" />
     <ClInclude Include="test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
